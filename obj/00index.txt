@@ -1,0 +1,21 @@
+Directory contents:
+
+BIOS font data:
+---------------
+BIOS.FNT
+BIOSFNT.BIN
+BIOSFNT.OBJ
+
+Turkish charset & uppercase data:
+---------------------------------
+CHARSET1.BIN
+CHARSET1.OBJ
+CHARSET2.BIN
+CHARSET2.OBJ
+
+Misc data:
+----------
+COSTABLE.OBJ            I don't know whether it's used in the code :)
+EGAVGA.OBJ              BGI driver.
+OVERXMS.OBJ             OverXMS object.
+SNDXLAT.BIN             Not used in the code but.. I don't know... :)

@@ -1,0 +1,6 @@
+Directory contents:
+
+HELLO.PAS               Hello world example
+INSTALL.INI             INI file for Install utility.
+INSTALL.PAS             Generic Install utility.
+MED.PAS                 Mouse editor source code.

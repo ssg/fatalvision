@@ -1,0 +1,66 @@
+Directory contents:
+
+APPBACK.PAS             (GUI) High level back-up routines.
+AXESERV.PAS             (GUI) AXE Resource manager.
+CRH.PAS                 (GUI) Critical Error Handler.
+DEBRIS.PAS              Tiny data conversion functions.
+DISK.PAS                Low level disk routines.
+EDITOR.PAS              (GUI) A text editor object. (not used much)
+EYEBALLS.PAS            (GUI) Eyeballs object. A good example for beginners.
+GVIEW.PAS               (GUI) Base GUI engine.
+LOADERS.PAS             (GUI) Old data loaders. You mostly won't need'em.
+LZSS.PAS                LZSS data compression routines.
+OVERXMS.ASM             XMS overlay library asm source.
+OVERXMS.PAS             XMS overlay library pascal interface source.
+TOOLS.PAS               (GUI) Most of GUI objects are here.
+X95.PAS                 Windows95 long filename functions etc.
+XAPM.PAS                Power Mangement functions. *not tested*
+XBACKUP.PAS             (GUI) Low level back-up routines.
+XBUF.PAS                Buffer utility functions.
+XCALC.PAS               (GUI) Calculator object.
+XCD.PAS                 MSCDEX low level interface
+XCDPLAY.PAS             (GUI) CD player object.
+XCLOCK.PAS              (GUI) Clock object.
+XCOLL.PAS               Some TCollection derivations.
+XCRT.PAS                (GUI) Text mode emulation object.
+XDEBUG.PAS              (GUI) Debug console unit.
+XDEV.PAS                (GUI) Pointing device definitions.
+XDIAG.PAS               Environment detection functions.
+XDIALOGS.PAS            (GUI) File open dialog implementation.
+XDIFF.PAS               another *IFF implementation. *not tested*
+XDOS.PAS                (GUI) Virtual ms-dos shell. multitasking :)
+XDPMI.PAS               DPMI interface routines.
+XERR.PAS                Runtime error handler.
+XFOSSIL.PAS             Low level fossil interface.
+XGFX.PAS                (GUI) Graphics subsystem.
+XGH.PAS                 (GUI) Help viewer objects.
+XHELP.PAS               Low level help-system engine.
+XIEX.PAS                IBM disk extensions library. *not tested*
+XINPUT.PAS              (GUI) Old InputLine routines.
+XINTL.PAS               Primitive locale functions.
+XIO.PAS                 File I/O support routines.
+XIPX.PAS                Novell IPX implementation. *not tested*
+XJOY.PAS                Joystick routines.
+XKEY.PAS                Keyboard driver code.
+XLAN.PAS                Multilingual extensions.
+XMM.PAS                 XMS & EMS low level functions. *not tested*
+XMOUSE.PAS              Mouse low level functions.
+xnet.pas                (GUI) Adapter independent networking subsystem.
+XNIB.PAS                (GUI) Unfinished nibbles source.
+XOLD.PAS                Old constants etc.. Probably you won't need'em.
+XOVER.PAS               High-level overlay init library.
+XPAL.PAS                (GUI) Palette editor object.
+XPCI.PAS                PCIBIOS API implementation. *not tested*
+XPRN.PAS                (GUI) Printer functions.
+XPROF.PAS               Profile functions.
+XPROTECT.PAS            EXE protection functions.
+XSCROLL.PAS             (GUI) Scrollbar object.
+XSETUP.PAS              Version independent config file routines.
+XSTR.PAS                String functions.
+XSTREAM.PAS             Some stream object implementations.
+XSYS.PAS                Low level FatalVision environment control lib.
+XTYPES.PAS              All the constants & type definitions.
+XUNIX.PAS               Unix<->DOS date conversion lib.
+XVCPI.PAS               VCPI implementation. *why test?* :)
+XVESA.PAS               VESA implementation.
+XVFS.PAS                Virtual file system lib.

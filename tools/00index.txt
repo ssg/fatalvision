@@ -1,0 +1,17 @@
+Directory contents:
+
+AXE.EXE                 AXE Resource File Manager
+BMP2VIF.EXE             Windows BMP -> VIF converter (a bit outdated
+                        since AXE does the conversion internally)
+DIR2VFS.EXE             Converts a directory to a VFS file
+DUMPVFS.EXE             Displays the contents of a VFS file
+ID2LONG.EXE             Converts 4-char ID's the longint so that you
+                        can define a constant in your source code when
+                        implementing a new file format. (that which I've
+                        done too often for years)
+MED.EXE                 Compiled version of Mouse shape editor
+MKX.EXE                 Adds CRC information to the EXE for XProtect
+                        unit.
+TRC.EXE                 Text Resource Compiler. For multilingual
+                        applications. (XLan unit)
+XVHC.EXE                The ultimate help compiler. (XHelp & XGH units)
