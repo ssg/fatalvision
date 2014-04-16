@@ -1,19 +1,15 @@
+FatalVision
+===========
 
- FatalVision
- ~~~~~~~~~~~
-
- Copyright (c) 1993,..,1998 Sedat Kapanoglu & Meric Sentunali
-
-
-WHAT IS FATALVISION
-~~~~~~~~~~~~~~~~~~~
+What is FatalVision?
+-------------------
 FatalVision is a set of Borland Pascal libraries. A set that has been
 built in years, with hell a lot of effort. A set that developed its own
 authors while it's being developed. A set that gave us experience. A set
 that made us men.
 
-HISTORY
-~~~~~~~
+History
+-------
 There's a lot to tell here which will go beyond the purpose of this
 document, so I will keep it short. It was May 1993 and I (SSG) was
 workin' on graphical user interfaces. Suat Esen (Wiseman) made an
@@ -28,8 +24,8 @@ stopped the coding of the GUI. It was almost finished. But I kept
 retouching it until end of 97. I had released many utilities using that
 library.
 
-IMPORTANCE
-~~~~~~~~~~
+Importance
+----------
 FatalVision is NOT a technical miracle. It's not even throughly
 designed. (hey, is it ever designed?) It can never be used by other
 people since the lack of documentation and terminology conflicts. But,
@@ -42,8 +38,8 @@ special because I owe most of the things I have now to that project. If
 someone calls me a "coder" now, it's because of that. I can never finish
 listing the things that project gave me here. So just know it's special.
 
-TECH DETAILS
-~~~~~~~~~~~~
+Tech Details
+------------
 FatalVision is not a complete replacement library. In fact, it needs
 TurboVision and BGI interface to work. Why needs TurboVision? Because 
 it's bugfree and why write everything from scratch? Why needs BGI? 
@@ -67,32 +63,28 @@ ones that are useless without GUI, are marked in the 00index.txt file of
 If you want to see something done with this GUI, download the off line
 mail reader "Wolverine" from any Simtel mirror. (http://www.simtel.net)
 
-WHY GIVE AWAY THE CODE?
-~~~~~~~~~~~~~~~~~~~~~~~
+Why Give Away The Code?
+-----------------------
 Because FatalVision is dead. It's outdated. I'm not developing it
 anymore. Why they show T-Rex in museums? That's why.
 
-DOCUMENTATION
-~~~~~~~~~~~~~
+Documentation?
+-------------
 Aha... You are stuck there...
 
-LICENSE
-~~~~~~~
+License
+-------
 FatalVision is public domain. Make commercial apps with it. Make money with
 it. Copy it. Pirate it. Don't greet us in the apps you did with it. 
 
-CONTACT
-~~~~~~~
+Contact
+-------
 If you want to make some comments:
 
-SSG:
-   ssg@sourtimes.org
+Sedat "SSG" Kapanoglu:
+   <ssg@sourtimes.org>
 
-FatalicA:
-   fatalica@sourtimes.org
+Meric "FatalicA" Sentunali:
+   <fatalica@sourtimes.org>
 
-The aRtEffECt homepage:
-   http://www.arteffect.org
-
-
-26th Mar 97
+Copyright (c) 1993,..,1998 Sedat Kapanoglu & Meric Sentunali
