@@ -61,7 +61,7 @@ ones that are useless without GUI, are marked in the 00index.txt file of
 "src\" subdirectory.
 
 If you want to see something done with this GUI, download the off line
-mail reader "Wolverine" from any Simtel mirror. (http://www.simtel.net)
+mail reader [Wolverine](https://github.com/ssg/wolverine) from any Simtel mirror. (e.g. http://simtel.site)
 
 Why Give Away The Code?
 -----------------------
