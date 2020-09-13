@@ -77,14 +77,4 @@ License
 FatalVision is public domain. Make commercial apps with it. Make money with
 it. Copy it. Pirate it. Don't greet us in the apps you did with it. 
 
-Contact
--------
-If you want to make some comments:
-
-Sedat "SSG" Kapanoglu:
-   <ssg@sourtimes.org>
-
-Meric "FatalicA" Sentunali:
-   <fatalica@sourtimes.org>
-
 Copyright (c) 1993,..,1998 Sedat Kapanoglu & Meric Sentunali
