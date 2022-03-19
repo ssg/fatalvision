@@ -18,19 +18,19 @@ Baston file manager, 1st place winner of Altin Disket 94 Programming Competition
 
 Context-sensitive hypertext help of Baston:
 
-![baston 2](https://user-images.githubusercontent.com/241217/159136763-e8ed9e4d-1e0b-4727-8c07-2ec82a890d9a.png)
+![baston help system screenshot](https://user-images.githubusercontent.com/241217/159136763-e8ed9e4d-1e0b-4727-8c07-2ec82a890d9a.png)
 
 [Wolverine](https://github.com/ssg/wolverine) off-line mail reader for FidoNet-style networks:
 
-![wolverine-230-screenshot](https://user-images.githubusercontent.com/241217/159136787-e1a8cf26-6d2e-43b1-a653-081d3dee8bb5.png)
+![wolverine 2.30 screenshot](https://user-images.githubusercontent.com/241217/159136787-e1a8cf26-6d2e-43b1-a653-081d3dee8bb5.png)
 
 [Wolverine](https://github.com/ssg/wolverine) context-sensitive hypertext help:
 
-![sozluk_esintileri](https://user-images.githubusercontent.com/241217/159136783-52c32bc3-4d36-485b-9a35-da7b038f4405.png)
+![wolverine help](https://user-images.githubusercontent.com/241217/159136783-52c32bc3-4d36-485b-9a35-da7b038f4405.png)
 
 [GenAv](https://github.com/ssg/genav) antivirus:
 
-![genav](https://user-images.githubusercontent.com/241217/159136817-8197c438-4acb-4943-a54e-d21f439150c5.png)
+![genav screenshot](https://user-images.githubusercontent.com/241217/159136911-746a054e-38bc-4a9b-b76d-e660ce90581a.png)
 
 History
 -------
